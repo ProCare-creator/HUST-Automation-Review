@@ -9,7 +9,7 @@
 - `main.py`：主程序
 - `books.json`：数据文件
 - `README.md`：项目说明
-
+- `requirements.txt`：需安装的库 在终端输入（python -m pip install -r requirements.txt）后回车
 ## 运行方法
 
 ```bash
