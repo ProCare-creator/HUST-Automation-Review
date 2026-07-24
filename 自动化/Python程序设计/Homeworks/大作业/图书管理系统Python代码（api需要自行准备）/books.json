@@ -1,0 +1,18 @@
+[
+    {
+        "title": "电子技术基础实验与实训教程",
+        "author": "崔阳",
+        "pubisher": "默认",
+        "id": "345583fc",
+        "is_borrowed": true,
+        "borrowed_time": "2025-04-26T21:49:32.706606"
+    },
+    {
+        "title": "Python语言程序设计基础",
+        "author": "嵩天",
+        "pubisher": "默认",
+        "id": "7c4c5a7e",
+        "is_borrowed": false,
+        "borrowed_time": null
+    }
+]
